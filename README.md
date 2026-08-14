@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Human-Centred+XAI+Researcher;PhD+Candidate+%40+QUT+%26+AVR3;Automated+Vehicles+%C2%B7+NLP+%C2%B7+Explainable+AI" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2C3E50&center=true&vCenter=true&width=800&lines=Human-Centred+XAI+Researcher;PhD+Candidate+%40+QUT+%26+AVR3;Automated+Vehicles+%C2%B7+NLP+%C2%B7+Explainable+AI" alt="Typing animation" />
 
 # Ashkan Yousefi Zadeh
 
-**PhD Candidate · Queensland University of Technology · AVR3**  
+**PhD Candidate · Queensland University of Technology · ARC Training Centre for Automated Vehicles in Rural and Remote Regions (AVR3)**  
 *Also published as **Ashkan Y. Zadeh***
 
 [![Website](https://img.shields.io/badge/ashk4n.me-E67E22?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ashk4n.me)
