@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0090FF&center=true&vCenter=true&width=600&lines=Human-Centred+XAI+Researcher;PhD+Candidate+%40+QUT+%26+AVR3;Automated+Vehicles+%C2%B7+NLP+%C2%B7+Explainable+AI" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=1B2A6B&center=true&vCenter=true&width=600&lines=Human-Centred+XAI+Researcher;PhD+Candidate+%40+QUT+%26+AVR3;Automated+Vehicles+%C2%B7+NLP+%C2%B7+Explainable+AI" alt="Typing animation" />
 
 # Ashkan Yousefi Zadeh
 
