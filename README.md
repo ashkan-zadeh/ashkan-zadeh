@@ -9,7 +9,7 @@
 
 [![Website](https://img.shields.io/badge/ashk4n.me-FF6B35?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ashk4n.me)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6e-KEPoAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashkan-ysf/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashkan-ysf/)
 [![Email](https://img.shields.io/badge/ashkan.zadeh%40qut.edu.au-E74C3C?style=for-the-badge&logo=gmail&logoColor=white)](https://ashk4n.me/#contact)
 
 </div>
