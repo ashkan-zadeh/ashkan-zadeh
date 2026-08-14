@@ -65,6 +65,9 @@ Cameras &nbsp;·&nbsp; LiDAR &nbsp;·&nbsp; GNSS &nbsp;·&nbsp; IMU &nbsp;·&nbs
 **[X-Blocks: Linguistic Building Blocks of Natural Language Explanations for Automated Vehicles](https://arxiv.org/abs/2602.13248)**  
 Yousefi Zadeh et al. · 2026 · Submitted
 
+**[Explainability in Automated Driving: From Spatial Attention to Human-Centred Reasoning](https://doi.org/10.54941/ahfe1008076)**  
+Rakotonirainy, Yousefi Zadeh et al. · AHFE IHIET 2026
+
 **[PsyLingXAV: A Psycholinguistics Design Framework for XAI in Automated Vehicles](https://ceur-ws.org/Vol-4017/paper_14.pdf)**  
 Yousefi Zadeh et al. · XAI 2025 · World Conference on Explainable AI, Istanbul
 
