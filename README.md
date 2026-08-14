@@ -76,15 +76,16 @@ Mehraban, Yousefi Zadeh et al. · Engineering Applications of Artificial Intelli
 
 ---
 
-## GitHub Stats
+## Tools & Methods
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashkan-zadeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0090ff&icon_color=0090ff" alt="GitHub stats" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkan-zadeh&layout=compact&theme=tokyonight&hide_border=true&title_color=0090ff" alt="Top languages" height="160"/>
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
