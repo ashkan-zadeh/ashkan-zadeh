@@ -7,10 +7,10 @@
 **PhD Candidate · Queensland University of Technology · AVR3**  
 *Also published as **Ashkan Y. Zadeh***
 
-[![Website](https://img.shields.io/badge/ashk4n.me-0090ff?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ashk4n.me)
+[![Website](https://img.shields.io/badge/ashk4n.me-FF6B35?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ashk4n.me)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6e-KEPoAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashkan-ysf/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashkan.zadeh@qut.edu.au)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashkan-ysf/)
+[![Email](https://img.shields.io/badge/Email-E74C3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashkan.zadeh@qut.edu.au)
 
 </div>
 
@@ -50,10 +50,10 @@ Goal     ›  Trustworthy, understandable autonomous driving decisions
 
 **[NARRATE: A Multimodal Real-World Australian Driving Dataset for Human-Centred Explanations in Automated Driving](https://ashk4n.me/projects/narrate/)**
 
-[![ECCV 2026](https://img.shields.io/badge/ECCV_2026-DriveX_Workshop-blue?style=flat-square)](https://eccv.ecva.net)
-[![Dataset](https://img.shields.io/badge/Dataset-QUT_Research_Data_Finder-green?style=flat-square)](https://doi.org/10.25912/RDF_1786669427992)
-[![DOI](https://img.shields.io/badge/DOI-10.25912%2FRDF__1786669427992-blue?style=flat-square)](https://doi.org/10.25912/RDF_1786669427992)
-[![Project Page](https://img.shields.io/badge/Project_Page-ashk4n.me-orange?style=flat-square)](https://ashk4n.me/projects/narrate/)
+[![ECCV 2026](https://img.shields.io/badge/ECCV_2026-DriveX_Workshop-7D3C98?style=flat-square)](https://eccv.ecva.net)
+[![Dataset](https://img.shields.io/badge/Dataset-QUT_Research_Data_Finder-1E8449?style=flat-square)](https://doi.org/10.25912/RDF_1786669427992)
+[![DOI](https://img.shields.io/badge/DOI-10.25912%2FRDF__1786669427992-2471A3?style=flat-square)](https://doi.org/10.25912/RDF_1786669427992)
+[![Project Page](https://img.shields.io/badge/Project_Page-ashk4n.me-FF6B35?style=flat-square)](https://ashk4n.me/projects/narrate/)
 
 2,050 annotated driving events &nbsp;·&nbsp; 35 experienced drivers &nbsp;·&nbsp; Brisbane CBD, Australia  
 Cameras &nbsp;·&nbsp; LiDAR &nbsp;·&nbsp; GNSS &nbsp;·&nbsp; IMU &nbsp;·&nbsp; Natural language explanations &nbsp;·&nbsp; Situational Awareness annotations
